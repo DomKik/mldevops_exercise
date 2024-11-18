@@ -1,0 +1,17 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.10.7",
+  "startedAt":  "2024-11-18T15:30:38.291082Z",
+  "program":  "C:\\dominik\\uczelnia\\sem9\\Advanced_Machine_Learning\\lab5\\fork\\mldevops_exercise\\train_wandb.py",
+  "codePath":  "train_wandb.py",
+  "git":  {
+    "remote":  "https://github.com/DomKik/mldevops_exercise.git",
+    "commit":  "273d92974c693b8a28a7a5ce1cd654df32ed99b4"
+  },
+  "email":  "dominik.kikla@gmail.com",
+  "root":  "C:\\dominik\\uczelnia\\sem9\\Advanced_Machine_Learning\\lab5\\fork\\mldevops_exercise",
+  "host":  "LAPTOP-0QIP7PN9",
+  "username":  "Mimik",
+  "executable":  "C:\\dominik\\uczelnia\\sem9\\Advanced_Machine_Learning\\lab5\\venv\\Scripts\\python.exe",
+  "codePathLocal":  "train_wandb.py"
+}
